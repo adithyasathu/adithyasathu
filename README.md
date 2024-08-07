@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Adithya Sathu</h1>
-<p>A passionate Senior full stack developer </p>
+![github-header-image](https://github.com/user-attachments/assets/37a49dd8-e6ce-48ec-a645-9ac4034c3189)
+<p>Hi 👋 , Thanks for visiting my profile. I'm a passionate Senior full stack developer 🧑‍💻 with decade and half years experience in coding. My key strength is my language-agnostic approach to problem-solving and my ability to adapt skill set to what is required by each project and company. I'm level headed calm person 🕊, polite, lots of patience ✌️, can work with group 🤝, got hunger to learn and always with a smile on my face 😁 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <h3>Backend </h3>
 <p>
@@ -13,6 +13,11 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="42" height="42" />
   </a>
+
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" title="golang" alt="golang" width="32" height="42" />
+  </a>
+  
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="expressjs" alt="expressjs" width="80" height="54" />
   </a>
@@ -33,7 +38,7 @@
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" alt="angular" width="42" height="42" />
     </a>
     <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="42" height="42" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="74" height="42" />
     </a>
     <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="42" height="42" />
@@ -80,18 +85,55 @@
 
 <h3>Distributed event streaming platforms</h3>
 <p>
+  <a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" style="display: inline-block;">
+    <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" title="AmazonEventBridge" alt="AmazonEventBridge" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleQueueService.svg" style="display: inline-block;">
+    <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleQueueService.svg" title="AmazonSimpleQueueService" alt="AmazonSimpleQueueService" width="42" height="42" />
+  </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="kafka" alt="kafka" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;">
-      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="rabbitMQ" alt="rabbitMQ" width="42" height="42" />
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Apache kafka" alt="kafka" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="rabbitMQ" alt="rabbitMQ" width="42" height="42" />
+  </a>
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="18" height="18" /> services </h3>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" title="dynamodb" alt="dynamodb" width="42" height="42" />
 </a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonAPIGateway.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonAPIGateway.svg" title="AmazonAPIGateway" alt="AmazonAPIGateway" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonCloudFront.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonCloudFront.svg" title="AmazonCloudFront" alt="AmazonCloudFront" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AWSLambda.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AWSLambda.svg" title="AWSLambda" alt="AWSLambda" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleEmailService.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleEmailService.svg" title="AmazonSimpleEmailService" alt="AmazonSimpleEmailService" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/resource/AmazonSimpleStorageServiceBucketWithObjects.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/resource/AmazonSimpleStorageServiceBucketWithObjects.svg" title="AmazonSimpleStorageService" alt="AmazonSimpleStorageService" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" title="AmazonEventBridge" alt="AmazonEventBridge" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleQueueService.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonSimpleQueueService.svg" title="AmazonSimpleQueueService" alt="AmazonSimpleQueueService" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AWSSecretsManager.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AWSSecretsManager.svg" title="AWSSecretsManager" alt="AWSSecretsManager" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/resource/AWSSystemsManagerParameterStore.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/resource/AWSSystemsManagerParameterStore.svg" title="AWSSystemsManagerParameterStore" alt="AWSSystemsManagerParameterStore" width="42" height="42" />
+</a>
+<a target="_blank" href="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" style="display: inline-block;">
+  <img src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" title="AmazonCloudWatch" alt="AmazonCloudWatch" width="42" height="42" />
+</a>
+
 
 <h3>CI/CD</h3>
 <p>
@@ -140,7 +182,7 @@
 </p>
           
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/adithyasathu/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/adithyasathu/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyasathu&show_icons=true&locale=en" alt="adithyasathu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyasathu&" alt="adithyasathu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyasathu&show_icons=true&locale=en&layout=compact" alt="adithyasathu" /></p>
