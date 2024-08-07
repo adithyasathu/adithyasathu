@@ -100,8 +100,8 @@
   </a>
 </p>
 
-<h3><img src="https://aws.amazon.com/dynamodb/" alt="aws" width="18" height="18" /> services </h3>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" style="display: inline-block;">
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="18" height="18" /> services </h3>
+<a target="_blank" href="https://aws.amazon.com/dynamodb/" style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" title="dynamodb" alt="dynamodb" width="42" height="42" />
 </a>
 <a target="_blank" href="https://aws.amazon.com/api-gateway/" style="display: inline-block;">
