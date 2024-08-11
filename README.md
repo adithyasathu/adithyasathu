@@ -2,6 +2,7 @@
 <p>Hi 👋 , Thanks for visiting my profile. I'm a passionate Senior full stack developer 🧑‍💻 with decade and half years experience in coding. My key strength is my language-agnostic approach to problem-solving and my ability to adapt skill set to what is required by each project and company. I'm level headed calm person 🕊, polite, lots of patience ✌️, can work with group 🤝, got hunger to learn and always with a smile on my face 😁 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
+<p>Mouseover your cursor on the logo to know what it is and click on it to know more 😄 </p>
 <h3>Backend </h3>
 <p>
   <a target="_blank" href="https://nodejs.org/en" style="display: inline-block;">
