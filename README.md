@@ -33,19 +33,19 @@
     <a target="_blank" href="https://react.dev/" style="display: inline-block;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  title="react" alt="react" width="42" height="42" />
     </a>
-    <a target="_blank" href="https://svelte.dev/" style="display: inline-block;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="svelte" alt="svelte" width="42" height="42" />
-    </a>
     <a target="_blank" href="https://angular.dev/" style="display: inline-block;">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" alt="angular" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://angularjs.org/" style="display: inline-block;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="74" height="42" />
     </a>
     <a target="_blank" href="https://vuejs.org/" style="display: inline-block;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="42" height="42" />
     </a>
-   <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
+    <a target="_blank" href="https://svelte.dev/" style="display: inline-block;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="svelte" alt="svelte" width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://angularjs.org/" style="display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="74" height="42" />
+    </a>
+    <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" title="tailwindcss" alt="tailwindcss" width="94" height="52" />
    </a>
     <a target="_blank" href="https://getbootstrap.com/" style="display: inline-block;">
